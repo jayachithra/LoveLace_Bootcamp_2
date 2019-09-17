@@ -1,1 +1,1 @@
-Bootcamp 2
+## Bootcamp 2 - Exploratory Data Analysis
